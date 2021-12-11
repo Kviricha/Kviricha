@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kviricha
-- 👀 I’m interested in <Mobile Development/> 
-- 🌱 I’m currently learning: Html, CSS, JS
+- 👋 Hi, I’m Giorgi
+- 👀 I’m interested in <Web/Mobile Development/> 
+- 🌱 I’m currently learning: Html, CSS, JS, React...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
